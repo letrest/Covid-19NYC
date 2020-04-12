@@ -1,0 +1,138 @@
+body {
+  font-family: sans-serif;
+  padding: 1em;
+  background: #eee;
+}
+
+.ais-SearchBox {
+  margin: 1em 0;
+}
+
+.ais-Pagination {
+  margin-top: 1em;
+}
+
+.left-panel {
+  float: left;
+  width: 250px;
+}
+
+.right-panel {
+  margin-left: 260px;
+}
+
+.ais-InstantSearch {
+  max-width: 960px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.ais-ClearRefinements {
+  margin-top: 10px;
+}
+
+.ais-Hits {
+  margin-top: 1em;
+}
+
+.ais-Hits-item {
+  margin-bottom: 1em;
+  padding: 0px;
+  width: calc(50% - 1rem);
+  position: relative;;
+}
+
+.hit-item {
+  padding: 10px;
+  min-height: 5em;
+}
+
+.hit-neighborhood {
+  /* color: #888;
+  font-size: 14px;
+  margin-bottom: 0.5em; */
+  font-size: 11px;
+  margin-bottom: 1em;
+}
+
+.neighborhood-name {
+  font-weight: bold;
+  font-size: 1.6em;
+}
+
+.hit-zip {
+  position: absolute;
+  right: .5em;
+  top: .5em;
+}
+
+.hit-zip .ais-Highlight {
+  font-weight: bold;
+}
+
+.hit-positive {
+  margin-bottom: 1em;
+}
+
+.hit-positive * {
+  font-weight: bold;
+}
+
+.hit-total * {
+  font-weight: bold;
+}
+
+.hit-percentage {
+  position: absolute;
+  right: .5em;
+  bottom: .5em;
+  font-size: 11px;
+}
+
+.hit-borough {
+  position: absolute;
+  right: .5em;
+  top: 50%;
+  margin-top: -.9em;
+  font-size: 2em;
+  opacity: .5;
+}
+
+.percentageValue {
+  font-size: 2em;
+  font-weight: bold;
+  display: block;
+}
+
+.mapMarker {
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.mapNeighborhood {
+  font-size: 1em;
+  margin: 5px;
+}
+
+.mapPercentage {
+  position: absolute;font-weight: bold;
+  right: 5px;
+  top: 5px;
+}
+
+.searchbox-label {
+  margin: 1.4em .5em 1em 0;
+}
+
+.ais-SearchBox {
+  flex: 2;
+}
+
+.searchWrapper {
+  display: flex;
+}
+
+.ais-PoweredBy {
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
