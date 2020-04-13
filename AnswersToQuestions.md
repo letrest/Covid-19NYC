@@ -5,13 +5,16 @@ Hi George,
 I'll go through your questions one by one
 
 *Records*
+
 A record is an object that you want to be able to search for. A record will have a unique objectID (which can be generated automatically for you or you can add one yourself) and any other number of attributes
 
 *Indexing*
+
 An index is where the data (the collection of records in which you want to perform the search) is stored
 Indexing is the action of creating that index in a way that it can be searched on
 
 *Understanding what types of metrics would be useful to include in the "Custom Ranking."*
+
 What may be useful to your specific use case will depend on the type of data you have available and the relevance of that data to your search ranking.
 Some examples are 
 * if you have a popularity attribute for each record, you may want to show the more popular items first
