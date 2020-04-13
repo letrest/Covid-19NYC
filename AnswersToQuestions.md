@@ -4,16 +4,16 @@ Hi George,
 
 I'll go through your questions one by one
 
-*Records*
+> Records
 
 A record is an object that you want to be able to search for. A record will have a unique objectID (which can be generated automatically for you or you can add one yourself) and any other number of attributes
 
-*Indexing*
+> Indexing
 
 An index is where the data (the collection of records in which you want to perform the search) is stored
 Indexing is the action of creating that index in a way that it can be searched on
 
-*Understanding what types of metrics would be useful to include in the "Custom Ranking."*
+> Understanding what types of metrics would be useful to include in the "Custom Ranking."
 
 What may be useful to your specific use case will depend on the type of data you have available and the relevance of that data to your search ranking.
 Some examples are 
@@ -39,7 +39,7 @@ Best!
 
 #### Question 2:
 
-*Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.*
+> Sorry to give you the kind of feedback that I know you do not want to hear, but I really hate the new dashboard design. Clearing and deleting indexes are now several clicks away. I am needing to use these features while iterating, so this is inconvenient.
 
 Hi Matt,
 First off, I apologize for any inconvenience the new dashboard design is causing you.
@@ -52,8 +52,8 @@ Best!
 
 #### Question 3:
 
-*I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
-Regards, Leo*
+> I'm looking to integrate Algolia in my website. Will this be a lot of development work for me? What's the high level process look like?
+Regards, Leo
 
 Hi Leo,
 
