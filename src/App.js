@@ -25,7 +25,7 @@ import './App.css';
 
 /* 
 ** It's using uploaded NYC.gov data from here: https://github.com/nychealth/coronavirus-data/blob/master/tests-by-zcta.csv 
-** that data is then combined with data on the zip code neighborhood names and a zip lat long list from different sources
+** that data is then combined with data on the "zip code & neighborhood names" and a "zip lat long" lists from different sources
 /*
 
 /* Algolia client with keys*/
