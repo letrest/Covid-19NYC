@@ -1,7 +1,10 @@
 {
   "name": "ais-covid-by-zip-app",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "engines": {
+    "node": "8.15.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
