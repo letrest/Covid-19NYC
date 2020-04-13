@@ -1,0 +1,2480 @@
+[
+  {
+    "MODZCTA": 10001,
+    "Positive": 201,
+    "Total": 435,
+    "zcta_cum.perc_pos": 46.21,
+    "Lat": 40.750633,
+    "Long": -73.997177,
+    "_geoloc": {
+      "lat": 40.750633,
+      "lng": -73.997177
+    },
+    "Neighborhood": "Chelsea and Clinton",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10002,
+    "Positive": 500,
+    "Total": 970,
+    "zcta_cum.perc_pos": 51.55,
+    "Lat": 40.715775,
+    "Long": -73.986212,
+    "_geoloc": {
+      "lat": 40.715775,
+      "lng": -73.986212
+    },
+    "Neighborhood": "Lower East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10003,
+    "Positive": 267,
+    "Total": 636,
+    "zcta_cum.perc_pos": 41.98,
+    "Lat": 40.731829,
+    "Long": -73.989181,
+    "_geoloc": {
+      "lat": 40.731829,
+      "lng": -73.989181
+    },
+    "Neighborhood": "Lower East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10004,
+    "Positive": 22,
+    "Total": 54,
+    "zcta_cum.perc_pos": 40.74,
+    "Lat": 40.68863,
+    "Long": -74.018244,
+    "_geoloc": {
+      "lat": 40.68863,
+      "lng": -74.018244
+    },
+    "Neighborhood": "Lower Manhattan",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10005,
+    "Positive": 37,
+    "Total": 112,
+    "zcta_cum.perc_pos": 33.04,
+    "Lat": 40.706027,
+    "Long": -74.008835,
+    "_geoloc": {
+      "lat": 40.706027,
+      "lng": -74.008835
+    },
+    "Neighborhood": "Lower Manhattan",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10006,
+    "Positive": 8,
+    "Total": 39,
+    "zcta_cum.perc_pos": 20.51,
+    "Lat": 40.709614,
+    "Long": -74.012954,
+    "_geoloc": {
+      "lat": 40.709614,
+      "lng": -74.012954
+    },
+    "Neighborhood": "Lower Manhattan",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10007,
+    "Positive": 32,
+    "Total": 103,
+    "zcta_cum.perc_pos": 31.07,
+    "Lat": 40.713848,
+    "Long": -74.007755,
+    "_geoloc": {
+      "lat": 40.713848,
+      "lng": -74.007755
+    },
+    "Neighborhood": "Lower Manhattan",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10009,
+    "Positive": 349,
+    "Total": 797,
+    "zcta_cum.perc_pos": 43.79,
+    "Lat": 40.726399,
+    "Long": -73.978631,
+    "_geoloc": {
+      "lat": 40.726399,
+      "lng": -73.978631
+    },
+    "Neighborhood": "Lower East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10010,
+    "Positive": 160,
+    "Total": 451,
+    "zcta_cum.perc_pos": 35.48,
+    "Lat": 40.739065,
+    "Long": -73.982255,
+    "_geoloc": {
+      "lat": 40.739065,
+      "lng": -73.982255
+    },
+    "Neighborhood": "Gramercy Park and Murray Hill",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10011,
+    "Positive": 342,
+    "Total": 704,
+    "zcta_cum.perc_pos": 48.58,
+    "Lat": 40.742039,
+    "Long": -74.00062,
+    "_geoloc": {
+      "lat": 40.742039,
+      "lng": -74.00062
+    },
+    "Neighborhood": "Chelsea and Clinton",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10012,
+    "Positive": 96,
+    "Total": 277,
+    "zcta_cum.perc_pos": 34.66,
+    "Lat": 40.725581,
+    "Long": -73.998078,
+    "_geoloc": {
+      "lat": 40.725581,
+      "lng": -73.998078
+    },
+    "Neighborhood": "Greenwich Village and Soho",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10013,
+    "Positive": 151,
+    "Total": 347,
+    "zcta_cum.perc_pos": 43.52,
+    "Lat": 40.720103,
+    "Long": -74.004903,
+    "_geoloc": {
+      "lat": 40.720103,
+      "lng": -74.004903
+    },
+    "Neighborhood": "Greenwich Village and Soho",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10014,
+    "Positive": 207,
+    "Total": 443,
+    "zcta_cum.perc_pos": 46.73,
+    "Lat": 40.734012,
+    "Long": -74.006746,
+    "_geoloc": {
+      "lat": 40.734012,
+      "lng": -74.006746
+    },
+    "Neighborhood": "Greenwich Village and Soho",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10016,
+    "Positive": 417,
+    "Total": 964,
+    "zcta_cum.perc_pos": 43.26,
+    "Lat": 40.745224,
+    "Long": -73.978297,
+    "_geoloc": {
+      "lat": 40.745224,
+      "lng": -73.978297
+    },
+    "Neighborhood": "Gramercy Park and Murray Hill",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10017,
+    "Positive": 83,
+    "Total": 244,
+    "zcta_cum.perc_pos": 34.02,
+    "Lat": 40.75236,
+    "Long": -73.972493,
+    "_geoloc": {
+      "lat": 40.75236,
+      "lng": -73.972493
+    },
+    "Neighborhood": "Gramercy Park and Murray Hill",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10018,
+    "Positive": 148,
+    "Total": 318,
+    "zcta_cum.perc_pos": 46.54,
+    "Lat": 40.755319,
+    "Long": -73.993114,
+    "_geoloc": {
+      "lat": 40.755319,
+      "lng": -73.993114
+    },
+    "Neighborhood": "Chelsea and Clinton",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10019,
+    "Positive": 314,
+    "Total": 716,
+    "zcta_cum.perc_pos": 43.85,
+    "Lat": 40.765823,
+    "Long": -73.987169,
+    "_geoloc": {
+      "lat": 40.765823,
+      "lng": -73.987169
+    },
+    "Neighborhood": "Chelsea and Clinton",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10021,
+    "Positive": 360,
+    "Total": 906,
+    "zcta_cum.perc_pos": 39.74,
+    "Lat": 40.769258,
+    "Long": -73.958751,
+    "_geoloc": {
+      "lat": 40.769258,
+      "lng": -73.958751
+    },
+    "Neighborhood": "Upper East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10022,
+    "Positive": 206,
+    "Total": 542,
+    "zcta_cum.perc_pos": 38.01,
+    "Lat": 40.758628,
+    "Long": -73.967948,
+    "_geoloc": {
+      "lat": 40.758628,
+      "lng": -73.967948
+    },
+    "Neighborhood": "Gramercy Park and Murray Hill",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10023,
+    "Positive": 315,
+    "Total": 809,
+    "zcta_cum.perc_pos": 38.94,
+    "Lat": 40.775921,
+    "Long": -73.982607,
+    "_geoloc": {
+      "lat": 40.775921,
+      "lng": -73.982607
+    },
+    "Neighborhood": "Upper West Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10024,
+    "Positive": 359,
+    "Total": 947,
+    "zcta_cum.perc_pos": 37.91,
+    "Lat": 40.798452,
+    "Long": -73.974428,
+    "_geoloc": {
+      "lat": 40.798452,
+      "lng": -73.974428
+    },
+    "Neighborhood": "Upper West Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10025,
+    "Positive": 582,
+    "Total": 1345,
+    "zcta_cum.perc_pos": 43.27,
+    "Lat": 40.798601,
+    "Long": -73.966622,
+    "_geoloc": {
+      "lat": 40.798601,
+      "lng": -73.966622
+    },
+    "Neighborhood": "Upper West Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10026,
+    "Positive": 279,
+    "Total": 562,
+    "zcta_cum.perc_pos": 49.64,
+    "Lat": 40.802381,
+    "Long": -73.952681,
+    "_geoloc": {
+      "lat": 40.802381,
+      "lng": -73.952681
+    },
+    "Neighborhood": "Central Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10027,
+    "Positive": 427,
+    "Total": 839,
+    "zcta_cum.perc_pos": 50.89,
+    "Lat": 40.811407,
+    "Long": -73.95306,
+    "_geoloc": {
+      "lat": 40.811407,
+      "lng": -73.95306
+    },
+    "Neighborhood": "Central Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10028,
+    "Positive": 302,
+    "Total": 764,
+    "zcta_cum.perc_pos": 39.53,
+    "Lat": 40.776441,
+    "Long": -73.953509,
+    "_geoloc": {
+      "lat": 40.776441,
+      "lng": -73.953509
+    },
+    "Neighborhood": "Upper East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10029,
+    "Positive": 769,
+    "Total": 1455,
+    "zcta_cum.perc_pos": 52.85,
+    "Lat": 40.791763,
+    "Long": -73.94397,
+    "_geoloc": {
+      "lat": 40.791763,
+      "lng": -73.94397
+    },
+    "Neighborhood": "East Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10030,
+    "Positive": 257,
+    "Total": 424,
+    "zcta_cum.perc_pos": 60.61,
+    "Lat": 40.818267,
+    "Long": -73.942856,
+    "_geoloc": {
+      "lat": 40.818267,
+      "lng": -73.942856
+    },
+    "Neighborhood": "Central Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10031,
+    "Positive": 542,
+    "Total": 858,
+    "zcta_cum.perc_pos": 63.17,
+    "Lat": 40.825288,
+    "Long": -73.950045,
+    "_geoloc": {
+      "lat": 40.825288,
+      "lng": -73.950045
+    },
+    "Neighborhood": "Inwood and Washington Heights",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10032,
+    "Positive": 636,
+    "Total": 1066,
+    "zcta_cum.perc_pos": 59.66,
+    "Lat": 40.838815,
+    "Long": -73.942836,
+    "_geoloc": {
+      "lat": 40.838815,
+      "lng": -73.942836
+    },
+    "Neighborhood": "Inwood and Washington Heights",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10033,
+    "Positive": 560,
+    "Total": 931,
+    "zcta_cum.perc_pos": 60.15,
+    "Lat": 40.850545,
+    "Long": -73.933983,
+    "_geoloc": {
+      "lat": 40.850545,
+      "lng": -73.933983
+    },
+    "Neighborhood": "Inwood and Washington Heights",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10034,
+    "Positive": 300,
+    "Total": 550,
+    "zcta_cum.perc_pos": 54.55,
+    "Lat": 40.867076,
+    "Long": -73.924312,
+    "_geoloc": {
+      "lat": 40.867076,
+      "lng": -73.924312
+    },
+    "Neighborhood": "Inwood and Washington Heights",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10035,
+    "Positive": 403,
+    "Total": 744,
+    "zcta_cum.perc_pos": 54.17,
+    "Lat": 40.795455,
+    "Long": -73.929655,
+    "_geoloc": {
+      "lat": 40.795455,
+      "lng": -73.929655
+    },
+    "Neighborhood": "East Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10036,
+    "Positive": 214,
+    "Total": 465,
+    "zcta_cum.perc_pos": 46.02,
+    "Lat": 40.75926,
+    "Long": -73.98986,
+    "_geoloc": {
+      "lat": 40.75926,
+      "lng": -73.98986
+    },
+    "Neighborhood": "Chelsea and Clinton",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10037,
+    "Positive": 223,
+    "Total": 391,
+    "zcta_cum.perc_pos": 57.03,
+    "Lat": 40.812957,
+    "Long": -73.937376,
+    "_geoloc": {
+      "lat": 40.812957,
+      "lng": -73.937376
+    },
+    "Neighborhood": "Central Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10038,
+    "Positive": 137,
+    "Total": 281,
+    "zcta_cum.perc_pos": 48.75,
+    "Lat": 40.709278,
+    "Long": -74.002562,
+    "_geoloc": {
+      "lat": 40.709278,
+      "lng": -74.002562
+    },
+    "Neighborhood": "Lower Manhattan",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10039,
+    "Positive": 243,
+    "Total": 446,
+    "zcta_cum.perc_pos": 54.48,
+    "Lat": 40.830867,
+    "Long": -73.936218,
+    "_geoloc": {
+      "lat": 40.830867,
+      "lng": -73.936218
+    },
+    "Neighborhood": "Central Harlem",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10040,
+    "Positive": 437,
+    "Total": 702,
+    "zcta_cum.perc_pos": 62.25,
+    "Lat": 40.858305,
+    "Long": -73.930549,
+    "_geoloc": {
+      "lat": 40.858305,
+      "lng": -73.930549
+    },
+    "Neighborhood": "Inwood and Washington Heights",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10044,
+    "Positive": 84,
+    "Total": 186,
+    "zcta_cum.perc_pos": 45.16,
+    "Lat": 40.761915,
+    "Long": -73.949962,
+    "_geoloc": {
+      "lat": 40.761915,
+      "lng": -73.949962
+    },
+    "Neighborhood": "Upper East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10065,
+    "Positive": 207,
+    "Total": 601,
+    "zcta_cum.perc_pos": 34.44,
+    "Lat": 40.764612,
+    "Long": -73.963122,
+    "_geoloc": {
+      "lat": 40.764612,
+      "lng": -73.963122
+    },
+    "Neighborhood": "Upper East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10069,
+    "Positive": 34,
+    "Total": 89,
+    "zcta_cum.perc_pos": 38.2,
+    "Lat": 40.775906,
+    "Long": -73.990358,
+    "_geoloc": {
+      "lat": 40.775906,
+      "lng": -73.990358
+    },
+    "Neighborhood": "#N/A",
+    "Borough": ""
+  },
+  {
+    "MODZCTA": 10075,
+    "Positive": 257,
+    "Total": 552,
+    "zcta_cum.perc_pos": 46.56,
+    "Lat": 40.773361,
+    "Long": -73.956216,
+    "_geoloc": {
+      "lat": 40.773361,
+      "lng": -73.956216
+    },
+    "Neighborhood": "Upper East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10128,
+    "Positive": 384,
+    "Total": 976,
+    "zcta_cum.perc_pos": 39.34,
+    "Lat": 40.781432,
+    "Long": -73.950013,
+    "_geoloc": {
+      "lat": 40.781432,
+      "lng": -73.950013
+    },
+    "Neighborhood": "Upper East Side",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10280,
+    "Positive": 27,
+    "Total": 79,
+    "zcta_cum.perc_pos": 34.18,
+    "Lat": 40.708538,
+    "Long": -74.01665,
+    "_geoloc": {
+      "lat": 40.708538,
+      "lng": -74.01665
+    },
+    "Neighborhood": "Lower Manhattan",
+    "Borough": "Manhattan"
+  },
+  {
+    "MODZCTA": 10282,
+    "Positive": 41,
+    "Total": 85,
+    "zcta_cum.perc_pos": 48.24,
+    "Lat": 40.716921,
+    "Long": -74.015066,
+    "_geoloc": {
+      "lat": 40.716921,
+      "lng": -74.015066
+    },
+    "Neighborhood": "#N/A",
+    "Borough": ""
+  },
+  {
+    "MODZCTA": 10301,
+    "Positive": 538,
+    "Total": 1037,
+    "zcta_cum.perc_pos": 51.88,
+    "Lat": 40.627456,
+    "Long": -74.094407,
+    "_geoloc": {
+      "lat": 40.627456,
+      "lng": -74.094407
+    },
+    "Neighborhood": "Stapleton and St. George",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10302,
+    "Positive": 275,
+    "Total": 541,
+    "zcta_cum.perc_pos": 50.83,
+    "Lat": 40.630688,
+    "Long": -74.137776,
+    "_geoloc": {
+      "lat": 40.630688,
+      "lng": -74.137776
+    },
+    "Neighborhood": "Port Richmond",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10303,
+    "Positive": 419,
+    "Total": 760,
+    "zcta_cum.perc_pos": 55.13,
+    "Lat": 40.629885,
+    "Long": -74.17413,
+    "_geoloc": {
+      "lat": 40.629885,
+      "lng": -74.17413
+    },
+    "Neighborhood": "Port Richmond",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10304,
+    "Positive": 718,
+    "Total": 1409,
+    "zcta_cum.perc_pos": 50.96,
+    "Lat": 40.609227,
+    "Long": -74.092575,
+    "_geoloc": {
+      "lat": 40.609227,
+      "lng": -74.092575
+    },
+    "Neighborhood": "Stapleton and St. George",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10305,
+    "Positive": 636,
+    "Total": 1386,
+    "zcta_cum.perc_pos": 45.89,
+    "Lat": 40.596691,
+    "Long": -74.074866,
+    "_geoloc": {
+      "lat": 40.596691,
+      "lng": -74.074866
+    },
+    "Neighborhood": "Stapleton and St. George",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10306,
+    "Positive": 809,
+    "Total": 1829,
+    "zcta_cum.perc_pos": 44.23,
+    "Lat": 40.571768,
+    "Long": -74.12595,
+    "_geoloc": {
+      "lat": 40.571768,
+      "lng": -74.12595
+    },
+    "Neighborhood": "South Shore",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10307,
+    "Positive": 225,
+    "Total": 469,
+    "zcta_cum.perc_pos": 47.97,
+    "Lat": 40.509183,
+    "Long": -74.237785,
+    "_geoloc": {
+      "lat": 40.509183,
+      "lng": -74.237785
+    },
+    "Neighborhood": "South Shore",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10308,
+    "Positive": 390,
+    "Total": 903,
+    "zcta_cum.perc_pos": 43.19,
+    "Lat": 40.551884,
+    "Long": -74.147646,
+    "_geoloc": {
+      "lat": 40.551884,
+      "lng": -74.147646
+    },
+    "Neighborhood": "South Shore",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10309,
+    "Positive": 508,
+    "Total": 1156,
+    "zcta_cum.perc_pos": 43.94,
+    "Lat": 40.531346,
+    "Long": -74.219857,
+    "_geoloc": {
+      "lat": 40.531346,
+      "lng": -74.219857
+    },
+    "Neighborhood": "South Shore",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10310,
+    "Positive": 355,
+    "Total": 752,
+    "zcta_cum.perc_pos": 47.21,
+    "Lat": 40.632648,
+    "Long": -74.116148,
+    "_geoloc": {
+      "lat": 40.632648,
+      "lng": -74.116148
+    },
+    "Neighborhood": "Port Richmond",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10312,
+    "Positive": 934,
+    "Total": 1929,
+    "zcta_cum.perc_pos": 48.42,
+    "Lat": 40.545237,
+    "Long": -74.180443,
+    "_geoloc": {
+      "lat": 40.545237,
+      "lng": -74.180443
+    },
+    "Neighborhood": "South Shore",
+    "Borough": "Staten Island"
+  },
+  {
+    "MODZCTA": 10314,
+    "Positive": 1402,
+    "Total": 2923,
+    "zcta_cum.perc_pos": 47.96,
+    "Lat": 40.599263,
+    "Long": -74.165748,
+    "_geoloc": {
+      "lat": 40.599263,
+      "lng": -74.165748
+    },
+    "Neighborhood": "#N/A",
+    "Borough": ""
+  },
+  {
+    "MODZCTA": 10451,
+    "Positive": 730,
+    "Total": 1232,
+    "zcta_cum.perc_pos": 59.25,
+    "Lat": 40.820479,
+    "Long": -73.925084,
+    "_geoloc": {
+      "lat": 40.820479,
+      "lng": -73.925084
+    },
+    "Neighborhood": "High Bridge and Morrisania",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10452,
+    "Positive": 986,
+    "Total": 1534,
+    "zcta_cum.perc_pos": 64.28,
+    "Lat": 40.837393,
+    "Long": -73.923437,
+    "_geoloc": {
+      "lat": 40.837393,
+      "lng": -73.923437
+    },
+    "Neighborhood": "High Bridge and Morrisania",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10453,
+    "Positive": 1064,
+    "Total": 1690,
+    "zcta_cum.perc_pos": 62.96,
+    "Lat": 40.852779,
+    "Long": -73.912332,
+    "_geoloc": {
+      "lat": 40.852779,
+      "lng": -73.912332
+    },
+    "Neighborhood": "Central Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10454,
+    "Positive": 517,
+    "Total": 828,
+    "zcta_cum.perc_pos": 62.44,
+    "Lat": 40.805489,
+    "Long": -73.916585,
+    "_geoloc": {
+      "lat": 40.805489,
+      "lng": -73.916585
+    },
+    "Neighborhood": "Hunts Point and Mott Haven",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10455,
+    "Positive": 523,
+    "Total": 867,
+    "zcta_cum.perc_pos": 60.32,
+    "Lat": 40.81471,
+    "Long": -73.908593,
+    "_geoloc": {
+      "lat": 40.81471,
+      "lng": -73.908593
+    },
+    "Neighborhood": "Hunts Point and Mott Haven",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10456,
+    "Positive": 1057,
+    "Total": 1737,
+    "zcta_cum.perc_pos": 60.85,
+    "Lat": 40.829881,
+    "Long": -73.90812,
+    "_geoloc": {
+      "lat": 40.829881,
+      "lng": -73.90812
+    },
+    "Neighborhood": "High Bridge and Morrisania",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10457,
+    "Positive": 907,
+    "Total": 1467,
+    "zcta_cum.perc_pos": 61.83,
+    "Lat": 40.84715,
+    "Long": -73.89868,
+    "_geoloc": {
+      "lat": 40.84715,
+      "lng": -73.89868
+    },
+    "Neighborhood": "Central Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10458,
+    "Positive": 902,
+    "Total": 1571,
+    "zcta_cum.perc_pos": 57.42,
+    "Lat": 40.862543,
+    "Long": -73.888143,
+    "_geoloc": {
+      "lat": 40.862543,
+      "lng": -73.888143
+    },
+    "Neighborhood": "Bronx Park and Fordham",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10459,
+    "Positive": 693,
+    "Total": 1130,
+    "zcta_cum.perc_pos": 61.33,
+    "Lat": 40.825867,
+    "Long": -73.892942,
+    "_geoloc": {
+      "lat": 40.825867,
+      "lng": -73.892942
+    },
+    "Neighborhood": "Hunts Point and Mott Haven",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10460,
+    "Positive": 725,
+    "Total": 1215,
+    "zcta_cum.perc_pos": 59.67,
+    "Lat": 40.841758,
+    "Long": -73.879571,
+    "_geoloc": {
+      "lat": 40.841758,
+      "lng": -73.879571
+    },
+    "Neighborhood": "Central Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10461,
+    "Positive": 965,
+    "Total": 1794,
+    "zcta_cum.perc_pos": 53.79,
+    "Lat": 40.847381,
+    "Long": -73.840584,
+    "_geoloc": {
+      "lat": 40.847381,
+      "lng": -73.840584
+    },
+    "Neighborhood": "Southeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10462,
+    "Positive": 1133,
+    "Total": 2039,
+    "zcta_cum.perc_pos": 55.57,
+    "Lat": 40.84328,
+    "Long": -73.860389,
+    "_geoloc": {
+      "lat": 40.84328,
+      "lng": -73.860389
+    },
+    "Neighborhood": "Southeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10463,
+    "Positive": 815,
+    "Total": 1696,
+    "zcta_cum.perc_pos": 48.05,
+    "Lat": 40.880678,
+    "Long": -73.90654,
+    "_geoloc": {
+      "lat": 40.880678,
+      "lng": -73.90654
+    },
+    "Neighborhood": "Kingsbridge and Riverdale",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10464,
+    "Positive": 71,
+    "Total": 183,
+    "zcta_cum.perc_pos": 38.8,
+    "Lat": 40.867787,
+    "Long": -73.79992,
+    "_geoloc": {
+      "lat": 40.867787,
+      "lng": -73.79992
+    },
+    "Neighborhood": "Southeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10465,
+    "Positive": 816,
+    "Total": 1680,
+    "zcta_cum.perc_pos": 48.57,
+    "Lat": 40.822615,
+    "Long": -73.822239,
+    "_geoloc": {
+      "lat": 40.822615,
+      "lng": -73.822239
+    },
+    "Neighborhood": "Southeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10466,
+    "Positive": 1147,
+    "Total": 1938,
+    "zcta_cum.perc_pos": 59.18,
+    "Lat": 40.890964,
+    "Long": -73.846239,
+    "_geoloc": {
+      "lat": 40.890964,
+      "lng": -73.846239
+    },
+    "Neighborhood": "Northeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10467,
+    "Positive": 1653,
+    "Total": 2729,
+    "zcta_cum.perc_pos": 60.57,
+    "Lat": 40.869953,
+    "Long": -73.865746,
+    "_geoloc": {
+      "lat": 40.869953,
+      "lng": -73.865746
+    },
+    "Neighborhood": "Bronx Park and Fordham",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10468,
+    "Positive": 1126,
+    "Total": 1721,
+    "zcta_cum.perc_pos": 65.43,
+    "Lat": 40.868093,
+    "Long": -73.89973,
+    "_geoloc": {
+      "lat": 40.868093,
+      "lng": -73.89973
+    },
+    "Neighborhood": "Bronx Park and Fordham",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10469,
+    "Positive": 1417,
+    "Total": 2300,
+    "zcta_cum.perc_pos": 61.61,
+    "Lat": 40.868607,
+    "Long": -73.848133,
+    "_geoloc": {
+      "lat": 40.868607,
+      "lng": -73.848133
+    },
+    "Neighborhood": "Northeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10470,
+    "Positive": 238,
+    "Total": 439,
+    "zcta_cum.perc_pos": 54.21,
+    "Lat": 40.88953,
+    "Long": -73.872662,
+    "_geoloc": {
+      "lat": 40.88953,
+      "lng": -73.872662
+    },
+    "Neighborhood": "Northeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10471,
+    "Positive": 283,
+    "Total": 636,
+    "zcta_cum.perc_pos": 44.5,
+    "Lat": 40.898868,
+    "Long": -73.903328,
+    "_geoloc": {
+      "lat": 40.898868,
+      "lng": -73.903328
+    },
+    "Neighborhood": "Kingsbridge and Riverdale",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10472,
+    "Positive": 854,
+    "Total": 1319,
+    "zcta_cum.perc_pos": 64.75,
+    "Lat": 40.829556,
+    "Long": -73.869336,
+    "_geoloc": {
+      "lat": 40.829556,
+      "lng": -73.869336
+    },
+    "Neighborhood": "Southeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10473,
+    "Positive": 986,
+    "Total": 1700,
+    "zcta_cum.perc_pos": 58,
+    "Lat": 40.81869,
+    "Long": -73.858474,
+    "_geoloc": {
+      "lat": 40.81869,
+      "lng": -73.858474
+    },
+    "Neighborhood": "Southeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10474,
+    "Positive": 159,
+    "Total": 250,
+    "zcta_cum.perc_pos": 63.6,
+    "Lat": 40.810549,
+    "Long": -73.884367,
+    "_geoloc": {
+      "lat": 40.810549,
+      "lng": -73.884367
+    },
+    "Neighborhood": "Hunts Point and Mott Haven",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 10475,
+    "Positive": 838,
+    "Total": 1484,
+    "zcta_cum.perc_pos": 56.47,
+    "Lat": 40.875169,
+    "Long": -73.823817,
+    "_geoloc": {
+      "lat": 40.875169,
+      "lng": -73.823817
+    },
+    "Neighborhood": "Northeast Bronx",
+    "Borough": "Bronx"
+  },
+  {
+    "MODZCTA": 11004,
+    "Positive": 310,
+    "Total": 481,
+    "zcta_cum.perc_pos": 64.45,
+    "Lat": 40.746204,
+    "Long": -73.711478,
+    "_geoloc": {
+      "lat": 40.746204,
+      "lng": -73.711478
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11101,
+    "Positive": 322,
+    "Total": 627,
+    "zcta_cum.perc_pos": 51.36,
+    "Lat": 40.747155,
+    "Long": -73.93975,
+    "_geoloc": {
+      "lat": 40.747155,
+      "lng": -73.93975
+    },
+    "Neighborhood": "Northwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11102,
+    "Positive": 279,
+    "Total": 503,
+    "zcta_cum.perc_pos": 55.47,
+    "Lat": 40.772884,
+    "Long": -73.926295,
+    "_geoloc": {
+      "lat": 40.772884,
+      "lng": -73.926295
+    },
+    "Neighborhood": "Northwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11103,
+    "Positive": 273,
+    "Total": 485,
+    "zcta_cum.perc_pos": 56.29,
+    "Lat": 40.762574,
+    "Long": -73.913447,
+    "_geoloc": {
+      "lat": 40.762574,
+      "lng": -73.913447
+    },
+    "Neighborhood": "Northwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11104,
+    "Positive": 252,
+    "Total": 413,
+    "zcta_cum.perc_pos": 61.02,
+    "Lat": 40.744634,
+    "Long": -73.920201,
+    "_geoloc": {
+      "lat": 40.744634,
+      "lng": -73.920201
+    },
+    "Neighborhood": "Northwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11105,
+    "Positive": 254,
+    "Total": 513,
+    "zcta_cum.perc_pos": 49.51,
+    "Lat": 40.778877,
+    "Long": -73.906769,
+    "_geoloc": {
+      "lat": 40.778877,
+      "lng": -73.906769
+    },
+    "Neighborhood": "Northwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11106,
+    "Positive": 319,
+    "Total": 595,
+    "zcta_cum.perc_pos": 53.61,
+    "Lat": 40.762211,
+    "Long": -73.931528,
+    "_geoloc": {
+      "lat": 40.762211,
+      "lng": -73.931528
+    },
+    "Neighborhood": "Northwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11109,
+    "Positive": 35,
+    "Total": 98,
+    "zcta_cum.perc_pos": 35.71,
+    "Lat": 40.745115,
+    "Long": -73.956928,
+    "_geoloc": {
+      "lat": 40.745115,
+      "lng": -73.956928
+    },
+    "Neighborhood": "#N/A",
+    "Borough": "#N/A"
+  },
+  {
+    "MODZCTA": 11201,
+    "Positive": 353,
+    "Total": 863,
+    "zcta_cum.perc_pos": 40.9,
+    "Lat": 40.693682,
+    "Long": -73.989693,
+    "_geoloc": {
+      "lat": 40.693682,
+      "lng": -73.989693
+    },
+    "Neighborhood": "Northwest Brooklyn",
+    "Borough": ""
+  },
+  {
+    "MODZCTA": 11203,
+    "Positive": 910,
+    "Total": 1411,
+    "zcta_cum.perc_pos": 64.49,
+    "Lat": 40.649591,
+    "Long": -73.934371,
+    "_geoloc": {
+      "lat": 40.649591,
+      "lng": -73.934371
+    },
+    "Neighborhood": "Flatbush",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11204,
+    "Positive": 1043,
+    "Total": 1699,
+    "zcta_cum.perc_pos": 61.39,
+    "Lat": 40.618779,
+    "Long": -73.984826,
+    "_geoloc": {
+      "lat": 40.618779,
+      "lng": -73.984826
+    },
+    "Neighborhood": "Borough Park",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11205,
+    "Positive": 363,
+    "Total": 685,
+    "zcta_cum.perc_pos": 52.99,
+    "Lat": 40.694696,
+    "Long": -73.966286,
+    "_geoloc": {
+      "lat": 40.694696,
+      "lng": -73.966286
+    },
+    "Neighborhood": "Northwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11206,
+    "Positive": 718,
+    "Total": 1241,
+    "zcta_cum.perc_pos": 57.86,
+    "Lat": 40.701954,
+    "Long": -73.942358,
+    "_geoloc": {
+      "lat": 40.701954,
+      "lng": -73.942358
+    },
+    "Neighborhood": "Bushwick and Williamsburg",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11207,
+    "Positive": 856,
+    "Total": 1408,
+    "zcta_cum.perc_pos": 60.8,
+    "Lat": 40.670747,
+    "Long": -73.894209,
+    "_geoloc": {
+      "lat": 40.670747,
+      "lng": -73.894209
+    },
+    "Neighborhood": "East New York and New Lots",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11208,
+    "Positive": 953,
+    "Total": 1466,
+    "zcta_cum.perc_pos": 65.01,
+    "Lat": 40.669769,
+    "Long": -73.871372,
+    "_geoloc": {
+      "lat": 40.669769,
+      "lng": -73.871372
+    },
+    "Neighborhood": "East New York and New Lots",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11209,
+    "Positive": 538,
+    "Total": 1087,
+    "zcta_cum.perc_pos": 49.49,
+    "Lat": 40.621982,
+    "Long": -74.030324,
+    "_geoloc": {
+      "lat": 40.621982,
+      "lng": -74.030324
+    },
+    "Neighborhood": "Southwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11210,
+    "Positive": 838,
+    "Total": 1351,
+    "zcta_cum.perc_pos": 62.03,
+    "Lat": 40.628147,
+    "Long": -73.946324,
+    "_geoloc": {
+      "lat": 40.628147,
+      "lng": -73.946324
+    },
+    "Neighborhood": "Flatbush",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11211,
+    "Positive": 1138,
+    "Total": 1799,
+    "zcta_cum.perc_pos": 63.26,
+    "Lat": 40.712597,
+    "Long": -73.953098,
+    "_geoloc": {
+      "lat": 40.712597,
+      "lng": -73.953098
+    },
+    "Neighborhood": "Greenpoint",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11212,
+    "Positive": 780,
+    "Total": 1213,
+    "zcta_cum.perc_pos": 64.3,
+    "Lat": 40.662936,
+    "Long": -73.913029,
+    "_geoloc": {
+      "lat": 40.662936,
+      "lng": -73.913029
+    },
+    "Neighborhood": "Central Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11213,
+    "Positive": 737,
+    "Total": 1213,
+    "zcta_cum.perc_pos": 60.76,
+    "Lat": 40.671078,
+    "Long": -73.936336,
+    "_geoloc": {
+      "lat": 40.671078,
+      "lng": -73.936336
+    },
+    "Neighborhood": "Central Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11214,
+    "Positive": 693,
+    "Total": 1237,
+    "zcta_cum.perc_pos": 56.02,
+    "Lat": 40.599148,
+    "Long": -73.99609,
+    "_geoloc": {
+      "lat": 40.599148,
+      "lng": -73.99609
+    },
+    "Neighborhood": "Southwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11215,
+    "Positive": 321,
+    "Total": 754,
+    "zcta_cum.perc_pos": 42.57,
+    "Lat": 40.662688,
+    "Long": -73.98674,
+    "_geoloc": {
+      "lat": 40.662688,
+      "lng": -73.98674
+    },
+    "Neighborhood": "Northwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11216,
+    "Positive": 347,
+    "Total": 664,
+    "zcta_cum.perc_pos": 52.26,
+    "Lat": 40.680768,
+    "Long": -73.949316,
+    "_geoloc": {
+      "lat": 40.680768,
+      "lng": -73.949316
+    },
+    "Neighborhood": "Central Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11217,
+    "Positive": 281,
+    "Total": 546,
+    "zcta_cum.perc_pos": 51.47,
+    "Lat": 40.682306,
+    "Long": -73.978099,
+    "_geoloc": {
+      "lat": 40.682306,
+      "lng": -73.978099
+    },
+    "Neighborhood": "Northwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11218,
+    "Positive": 904,
+    "Total": 1511,
+    "zcta_cum.perc_pos": 59.83,
+    "Lat": 40.643468,
+    "Long": -73.976046,
+    "_geoloc": {
+      "lat": 40.643468,
+      "lng": -73.976046
+    },
+    "Neighborhood": "Borough Park",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11219,
+    "Positive": 1564,
+    "Total": 2312,
+    "zcta_cum.perc_pos": 67.65,
+    "Lat": 40.632667,
+    "Long": -73.996669,
+    "_geoloc": {
+      "lat": 40.632667,
+      "lng": -73.996669
+    },
+    "Neighborhood": "Borough Park",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11220,
+    "Positive": 718,
+    "Total": 1156,
+    "zcta_cum.perc_pos": 62.11,
+    "Lat": 40.641221,
+    "Long": -74.016862,
+    "_geoloc": {
+      "lat": 40.641221,
+      "lng": -74.016862
+    },
+    "Neighborhood": "Sunset Park",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11221,
+    "Positive": 593,
+    "Total": 983,
+    "zcta_cum.perc_pos": 60.33,
+    "Lat": 40.69134,
+    "Long": -73.927879,
+    "_geoloc": {
+      "lat": 40.69134,
+      "lng": -73.927879
+    },
+    "Neighborhood": "Bushwick and Williamsburg",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11222,
+    "Positive": 225,
+    "Total": 481,
+    "zcta_cum.perc_pos": 46.78,
+    "Lat": 40.72779,
+    "Long": -73.947605,
+    "_geoloc": {
+      "lat": 40.72779,
+      "lng": -73.947605
+    },
+    "Neighborhood": "Greenpoint",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11223,
+    "Positive": 827,
+    "Total": 1470,
+    "zcta_cum.perc_pos": 56.26,
+    "Lat": 40.597139,
+    "Long": -73.973428,
+    "_geoloc": {
+      "lat": 40.597139,
+      "lng": -73.973428
+    },
+    "Neighborhood": "Southern Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11224,
+    "Positive": 443,
+    "Total": 760,
+    "zcta_cum.perc_pos": 58.29,
+    "Lat": 40.577372,
+    "Long": -73.988706,
+    "_geoloc": {
+      "lat": 40.577372,
+      "lng": -73.988706
+    },
+    "Neighborhood": "Southern Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11225,
+    "Positive": 588,
+    "Total": 944,
+    "zcta_cum.perc_pos": 62.29,
+    "Lat": 40.663046,
+    "Long": -73.954219,
+    "_geoloc": {
+      "lat": 40.663046,
+      "lng": -73.954219
+    },
+    "Neighborhood": "Flatbush",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11226,
+    "Positive": 898,
+    "Total": 1412,
+    "zcta_cum.perc_pos": 63.6,
+    "Lat": 40.646448,
+    "Long": -73.956649,
+    "_geoloc": {
+      "lat": 40.646448,
+      "lng": -73.956649
+    },
+    "Neighborhood": "Flatbush",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11228,
+    "Positive": 322,
+    "Total": 576,
+    "zcta_cum.perc_pos": 55.9,
+    "Lat": 40.616695,
+    "Long": -74.013047,
+    "_geoloc": {
+      "lat": 40.616695,
+      "lng": -74.013047
+    },
+    "Neighborhood": "Southwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11229,
+    "Positive": 721,
+    "Total": 1308,
+    "zcta_cum.perc_pos": 55.12,
+    "Lat": 40.601293,
+    "Long": -73.944493,
+    "_geoloc": {
+      "lat": 40.601293,
+      "lng": -73.944493
+    },
+    "Neighborhood": "Southern Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11230,
+    "Positive": 1233,
+    "Total": 1994,
+    "zcta_cum.perc_pos": 61.84,
+    "Lat": 40.622164,
+    "Long": -73.965105,
+    "_geoloc": {
+      "lat": 40.622164,
+      "lng": -73.965105
+    },
+    "Neighborhood": "Borough Park",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11231,
+    "Positive": 227,
+    "Total": 478,
+    "zcta_cum.perc_pos": 47.49,
+    "Lat": 40.677916,
+    "Long": -74.005154,
+    "_geoloc": {
+      "lat": 40.677916,
+      "lng": -74.005154
+    },
+    "Neighborhood": "Northwest Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11232,
+    "Positive": 248,
+    "Total": 374,
+    "zcta_cum.perc_pos": 66.31,
+    "Lat": 40.656546,
+    "Long": -74.007355,
+    "_geoloc": {
+      "lat": 40.656546,
+      "lng": -74.007355
+    },
+    "Neighborhood": "Sunset Park",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11233,
+    "Positive": 539,
+    "Total": 904,
+    "zcta_cum.perc_pos": 59.62,
+    "Lat": 40.678308,
+    "Long": -73.919936,
+    "_geoloc": {
+      "lat": 40.678308,
+      "lng": -73.919936
+    },
+    "Neighborhood": "Central Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11234,
+    "Positive": 1044,
+    "Total": 1750,
+    "zcta_cum.perc_pos": 59.66,
+    "Lat": 40.60508,
+    "Long": -73.911721,
+    "_geoloc": {
+      "lat": 40.60508,
+      "lng": -73.911721
+    },
+    "Neighborhood": "Canarsie and Flatlands",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11235,
+    "Positive": 843,
+    "Total": 1513,
+    "zcta_cum.perc_pos": 55.72,
+    "Lat": 40.583949,
+    "Long": -73.949096,
+    "_geoloc": {
+      "lat": 40.583949,
+      "lng": -73.949096
+    },
+    "Neighborhood": "Southern Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11236,
+    "Positive": 1184,
+    "Total": 1835,
+    "zcta_cum.perc_pos": 64.52,
+    "Lat": 40.639413,
+    "Long": -73.900664,
+    "_geoloc": {
+      "lat": 40.639413,
+      "lng": -73.900664
+    },
+    "Neighborhood": "Canarsie and Flatlands",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11237,
+    "Positive": 421,
+    "Total": 627,
+    "zcta_cum.perc_pos": 67.15,
+    "Lat": 40.70416,
+    "Long": -73.921139,
+    "_geoloc": {
+      "lat": 40.70416,
+      "lng": -73.921139
+    },
+    "Neighborhood": "Bushwick and Williamsburg",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11238,
+    "Positive": 412,
+    "Total": 732,
+    "zcta_cum.perc_pos": 56.28,
+    "Lat": 40.679171,
+    "Long": -73.963804,
+    "_geoloc": {
+      "lat": 40.679171,
+      "lng": -73.963804
+    },
+    "Neighborhood": "Central Brooklyn",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11239,
+    "Positive": 230,
+    "Total": 378,
+    "zcta_cum.perc_pos": 60.85,
+    "Lat": 40.647735,
+    "Long": -73.879477,
+    "_geoloc": {
+      "lat": 40.647735,
+      "lng": -73.879477
+    },
+    "Neighborhood": "Canarsie and Flatlands",
+    "Borough": "Brooklyn"
+  },
+  {
+    "MODZCTA": 11354,
+    "Positive": 422,
+    "Total": 695,
+    "zcta_cum.perc_pos": 60.72,
+    "Lat": 40.768208,
+    "Long": -73.827403,
+    "_geoloc": {
+      "lat": 40.768208,
+      "lng": -73.827403
+    },
+    "Neighborhood": "North Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11355,
+    "Positive": 538,
+    "Total": 848,
+    "zcta_cum.perc_pos": 63.44,
+    "Lat": 40.751452,
+    "Long": -73.821031,
+    "_geoloc": {
+      "lat": 40.751452,
+      "lng": -73.821031
+    },
+    "Neighborhood": "North Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11356,
+    "Positive": 257,
+    "Total": 458,
+    "zcta_cum.perc_pos": 56.11,
+    "Lat": 40.78485,
+    "Long": -73.841279,
+    "_geoloc": {
+      "lat": 40.78485,
+      "lng": -73.841279
+    },
+    "Neighborhood": "North Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11357,
+    "Positive": 408,
+    "Total": 724,
+    "zcta_cum.perc_pos": 56.35,
+    "Lat": 40.786393,
+    "Long": -73.810864,
+    "_geoloc": {
+      "lat": 40.786393,
+      "lng": -73.810864
+    },
+    "Neighborhood": "North Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11358,
+    "Positive": 265,
+    "Total": 519,
+    "zcta_cum.perc_pos": 51.06,
+    "Lat": 40.760471,
+    "Long": -73.796371,
+    "_geoloc": {
+      "lat": 40.760471,
+      "lng": -73.796371
+    },
+    "Neighborhood": "North Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11360,
+    "Positive": 153,
+    "Total": 333,
+    "zcta_cum.perc_pos": 45.95,
+    "Lat": 40.780379,
+    "Long": -73.78123,
+    "_geoloc": {
+      "lat": 40.780379,
+      "lng": -73.78123
+    },
+    "Neighborhood": "North Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11361,
+    "Positive": 229,
+    "Total": 420,
+    "zcta_cum.perc_pos": 54.52,
+    "Lat": 40.764191,
+    "Long": -73.772775,
+    "_geoloc": {
+      "lat": 40.764191,
+      "lng": -73.772775
+    },
+    "Neighborhood": "Northeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11362,
+    "Positive": 158,
+    "Total": 323,
+    "zcta_cum.perc_pos": 48.92,
+    "Lat": 40.756574,
+    "Long": -73.737845,
+    "_geoloc": {
+      "lat": 40.756574,
+      "lng": -73.737845
+    },
+    "Neighborhood": "Northeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11363,
+    "Positive": 65,
+    "Total": 132,
+    "zcta_cum.perc_pos": 49.24,
+    "Lat": 40.772616,
+    "Long": -73.746526,
+    "_geoloc": {
+      "lat": 40.772616,
+      "lng": -73.746526
+    },
+    "Neighborhood": "Northeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11364,
+    "Positive": 242,
+    "Total": 456,
+    "zcta_cum.perc_pos": 53.07,
+    "Lat": 40.745289,
+    "Long": -73.760586,
+    "_geoloc": {
+      "lat": 40.745289,
+      "lng": -73.760586
+    },
+    "Neighborhood": "Northeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11365,
+    "Positive": 411,
+    "Total": 736,
+    "zcta_cum.perc_pos": 55.84,
+    "Lat": 40.739634,
+    "Long": -73.79449,
+    "_geoloc": {
+      "lat": 40.739634,
+      "lng": -73.79449
+    },
+    "Neighborhood": "Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11366,
+    "Positive": 236,
+    "Total": 403,
+    "zcta_cum.perc_pos": 58.56,
+    "Lat": 40.728152,
+    "Long": -73.785019,
+    "_geoloc": {
+      "lat": 40.728152,
+      "lng": -73.785019
+    },
+    "Neighborhood": "Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11367,
+    "Positive": 574,
+    "Total": 964,
+    "zcta_cum.perc_pos": 59.54,
+    "Lat": 40.730145,
+    "Long": -73.82703,
+    "_geoloc": {
+      "lat": 40.730145,
+      "lng": -73.82703
+    },
+    "Neighborhood": "Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11368,
+    "Positive": 2287,
+    "Total": 2893,
+    "zcta_cum.perc_pos": 79.05,
+    "Lat": 40.751718,
+    "Long": -73.851822,
+    "_geoloc": {
+      "lat": 40.751718,
+      "lng": -73.851822
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11369,
+    "Positive": 839,
+    "Total": 1107,
+    "zcta_cum.perc_pos": 75.79,
+    "Lat": 40.763365,
+    "Long": -73.872374,
+    "_geoloc": {
+      "lat": 40.763365,
+      "lng": -73.872374
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11370,
+    "Positive": 811,
+    "Total": 1312,
+    "zcta_cum.perc_pos": 61.81,
+    "Lat": 40.765393,
+    "Long": -73.893243,
+    "_geoloc": {
+      "lat": 40.765393,
+      "lng": -73.893243
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11372,
+    "Positive": 1355,
+    "Total": 1823,
+    "zcta_cum.perc_pos": 74.33,
+    "Lat": 40.75169,
+    "Long": -73.883638,
+    "_geoloc": {
+      "lat": 40.75169,
+      "lng": -73.883638
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11373,
+    "Positive": 1779,
+    "Total": 2490,
+    "zcta_cum.perc_pos": 71.45,
+    "Lat": 40.738837,
+    "Long": -73.878535,
+    "_geoloc": {
+      "lat": 40.738837,
+      "lng": -73.878535
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11374,
+    "Positive": 636,
+    "Total": 1105,
+    "zcta_cum.perc_pos": 57.56,
+    "Lat": 40.726418,
+    "Long": -73.861526,
+    "_geoloc": {
+      "lat": 40.726418,
+      "lng": -73.861526
+    },
+    "Neighborhood": "West Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11375,
+    "Positive": 872,
+    "Total": 1644,
+    "zcta_cum.perc_pos": 53.04,
+    "Lat": 40.720934,
+    "Long": -73.846151,
+    "_geoloc": {
+      "lat": 40.720934,
+      "lng": -73.846151
+    },
+    "Neighborhood": "West Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11377,
+    "Positive": 1072,
+    "Total": 1632,
+    "zcta_cum.perc_pos": 65.69,
+    "Lat": 40.744819,
+    "Long": -73.905156,
+    "_geoloc": {
+      "lat": 40.744819,
+      "lng": -73.905156
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11378,
+    "Positive": 358,
+    "Total": 626,
+    "zcta_cum.perc_pos": 57.19,
+    "Lat": 40.724744,
+    "Long": -73.909639,
+    "_geoloc": {
+      "lat": 40.724744,
+      "lng": -73.909639
+    },
+    "Neighborhood": "West Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11379,
+    "Positive": 403,
+    "Total": 741,
+    "zcta_cum.perc_pos": 54.39,
+    "Lat": 40.716748,
+    "Long": -73.879601,
+    "_geoloc": {
+      "lat": 40.716748,
+      "lng": -73.879601
+    },
+    "Neighborhood": "West Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11385,
+    "Positive": 977,
+    "Total": 1662,
+    "zcta_cum.perc_pos": 58.78,
+    "Lat": 40.700671,
+    "Long": -73.889433,
+    "_geoloc": {
+      "lat": 40.700671,
+      "lng": -73.889433
+    },
+    "Neighborhood": "West Central Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11411,
+    "Positive": 387,
+    "Total": 554,
+    "zcta_cum.perc_pos": 69.86,
+    "Lat": 40.694021,
+    "Long": -73.736216,
+    "_geoloc": {
+      "lat": 40.694021,
+      "lng": -73.736216
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11412,
+    "Positive": 645,
+    "Total": 1001,
+    "zcta_cum.perc_pos": 64.44,
+    "Lat": 40.698095,
+    "Long": -73.758986,
+    "_geoloc": {
+      "lat": 40.698095,
+      "lng": -73.758986
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11413,
+    "Positive": 691,
+    "Total": 1080,
+    "zcta_cum.perc_pos": 63.98,
+    "Lat": 40.671659,
+    "Long": -73.752568,
+    "_geoloc": {
+      "lat": 40.671659,
+      "lng": -73.752568
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11414,
+    "Positive": 434,
+    "Total": 736,
+    "zcta_cum.perc_pos": 58.97,
+    "Lat": 40.657604,
+    "Long": -73.844804,
+    "_geoloc": {
+      "lat": 40.657604,
+      "lng": -73.844804
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11415,
+    "Positive": 284,
+    "Total": 481,
+    "zcta_cum.perc_pos": 59.04,
+    "Lat": 40.707917,
+    "Long": -73.828212,
+    "_geoloc": {
+      "lat": 40.707917,
+      "lng": -73.828212
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11416,
+    "Positive": 302,
+    "Total": 471,
+    "zcta_cum.perc_pos": 64.12,
+    "Lat": 40.684654,
+    "Long": -73.849548,
+    "_geoloc": {
+      "lat": 40.684654,
+      "lng": -73.849548
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11417,
+    "Positive": 393,
+    "Total": 646,
+    "zcta_cum.perc_pos": 60.84,
+    "Lat": 40.676446,
+    "Long": -73.844443,
+    "_geoloc": {
+      "lat": 40.676446,
+      "lng": -73.844443
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11418,
+    "Positive": 493,
+    "Total": 785,
+    "zcta_cum.perc_pos": 62.8,
+    "Lat": 40.700272,
+    "Long": -73.835971,
+    "_geoloc": {
+      "lat": 40.700272,
+      "lng": -73.835971
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11419,
+    "Positive": 495,
+    "Total": 792,
+    "zcta_cum.perc_pos": 62.5,
+    "Lat": 40.688673,
+    "Long": -73.822918,
+    "_geoloc": {
+      "lat": 40.688673,
+      "lng": -73.822918
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11420,
+    "Positive": 623,
+    "Total": 981,
+    "zcta_cum.perc_pos": 63.51,
+    "Lat": 40.673583,
+    "Long": -73.81773,
+    "_geoloc": {
+      "lat": 40.673583,
+      "lng": -73.81773
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11421,
+    "Positive": 555,
+    "Total": 834,
+    "zcta_cum.perc_pos": 66.55,
+    "Lat": 40.694062,
+    "Long": -73.858626,
+    "_geoloc": {
+      "lat": 40.694062,
+      "lng": -73.858626
+    },
+    "Neighborhood": "Southwest Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11422,
+    "Positive": 517,
+    "Total": 845,
+    "zcta_cum.perc_pos": 61.18,
+    "Lat": 40.66006,
+    "Long": -73.736012,
+    "_geoloc": {
+      "lat": 40.66006,
+      "lng": -73.736012
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11423,
+    "Positive": 453,
+    "Total": 702,
+    "zcta_cum.perc_pos": 64.53,
+    "Lat": 40.715606,
+    "Long": -73.768471,
+    "_geoloc": {
+      "lat": 40.715606,
+      "lng": -73.768471
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11426,
+    "Positive": 270,
+    "Total": 492,
+    "zcta_cum.perc_pos": 54.88,
+    "Lat": 40.736425,
+    "Long": -73.722376,
+    "_geoloc": {
+      "lat": 40.736425,
+      "lng": -73.722376
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11427,
+    "Positive": 407,
+    "Total": 669,
+    "zcta_cum.perc_pos": 60.84,
+    "Lat": 40.730904,
+    "Long": -73.745661,
+    "_geoloc": {
+      "lat": 40.730904,
+      "lng": -73.745661
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11428,
+    "Positive": 320,
+    "Total": 488,
+    "zcta_cum.perc_pos": 65.57,
+    "Lat": 40.721016,
+    "Long": -73.742245,
+    "_geoloc": {
+      "lat": 40.721016,
+      "lng": -73.742245
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11429,
+    "Positive": 496,
+    "Total": 708,
+    "zcta_cum.perc_pos": 70.06,
+    "Lat": 40.709766,
+    "Long": -73.738653,
+    "_geoloc": {
+      "lat": 40.709766,
+      "lng": -73.738653
+    },
+    "Neighborhood": "Southeast Queens",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11432,
+    "Positive": 787,
+    "Total": 1219,
+    "zcta_cum.perc_pos": 64.56,
+    "Lat": 40.715359,
+    "Long": -73.793071,
+    "_geoloc": {
+      "lat": 40.715359,
+      "lng": -73.793071
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11433,
+    "Positive": 432,
+    "Total": 666,
+    "zcta_cum.perc_pos": 64.86,
+    "Lat": 40.698162,
+    "Long": -73.786893,
+    "_geoloc": {
+      "lat": 40.698162,
+      "lng": -73.786893
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11434,
+    "Positive": 997,
+    "Total": 1552,
+    "zcta_cum.perc_pos": 64.24,
+    "Lat": 40.676808,
+    "Long": -73.776425,
+    "_geoloc": {
+      "lat": 40.676808,
+      "lng": -73.776425
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11435,
+    "Positive": 726,
+    "Total": 1212,
+    "zcta_cum.perc_pos": 59.9,
+    "Lat": 40.701265,
+    "Long": -73.809605,
+    "_geoloc": {
+      "lat": 40.701265,
+      "lng": -73.809605
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11436,
+    "Positive": 245,
+    "Total": 377,
+    "zcta_cum.perc_pos": 64.99,
+    "Lat": 40.675807,
+    "Long": -73.796622,
+    "_geoloc": {
+      "lat": 40.675807,
+      "lng": -73.796622
+    },
+    "Neighborhood": "Jamaica",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11691,
+    "Positive": 1019,
+    "Total": 1527,
+    "zcta_cum.perc_pos": 66.73,
+    "Lat": 40.601278,
+    "Long": -73.761651,
+    "_geoloc": {
+      "lat": 40.601278,
+      "lng": -73.761651
+    },
+    "Neighborhood": "Rockaways",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11692,
+    "Positive": 277,
+    "Total": 437,
+    "zcta_cum.perc_pos": 63.39,
+    "Lat": 40.594095,
+    "Long": -73.792896,
+    "_geoloc": {
+      "lat": 40.594095,
+      "lng": -73.792896
+    },
+    "Neighborhood": "Rockaways",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11693,
+    "Positive": 185,
+    "Total": 312,
+    "zcta_cum.perc_pos": 59.29,
+    "Lat": 40.590692,
+    "Long": -73.809749,
+    "_geoloc": {
+      "lat": 40.590692,
+      "lng": -73.809749
+    },
+    "Neighborhood": "Rockaways",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11694,
+    "Positive": 342,
+    "Total": 587,
+    "zcta_cum.perc_pos": 58.26,
+    "Lat": 40.57827,
+    "Long": -73.844762,
+    "_geoloc": {
+      "lat": 40.57827,
+      "lng": -73.844762
+    },
+    "Neighborhood": "Rockaways",
+    "Borough": "Queens"
+  },
+  {
+    "MODZCTA": 11697,
+    "Positive": 63,
+    "Total": 123,
+    "zcta_cum.perc_pos": 51.22,
+    "Lat": 40.555688,
+    "Long": -73.920663,
+    "_geoloc": {
+      "lat": 40.555688,
+      "lng": -73.920663
+    },
+    "Neighborhood": "Rockaways",
+    "Borough": "Queens"
+  }
+]
